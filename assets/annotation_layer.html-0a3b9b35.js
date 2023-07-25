@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-1612306c","path":"/examples/basic/annotation_layer.html","title":"Annotation-layer","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1688955190000,"contributors":[{"name":"TaTo30","email":"aldo.hernandez3012@gmail.com","commits":4}]},"filePathRelative":"examples/basic/annotation_layer.md"}');export{a as data};

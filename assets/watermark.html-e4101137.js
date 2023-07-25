@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-af2d26ba","path":"/examples/basic/watermark.html","title":"Watermark Text","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1690323794000,"contributors":[{"name":"TaTo30","email":"aldo.hernandez3012@gmail.com","commits":1}]},"filePathRelative":"examples/basic/watermark.md"}');export{a as data};
