@@ -6,7 +6,8 @@ import { ref } from 'vue'
 import { VuePDF, usePDF } from '@tato30/vue-pdf'
 
 const page = ref(1)
-const { pdf, pages } = usePDF('https://mozilla.github.io/pdf.js/web/compressed.tracemonkey-pldi-09.pdf')
+//const { pdf, pages } = usePDF('https://mozilla.github.io/pdf.js/web/compressed.tracemonkey-pldi-09.pdf')
+const { pdf, pages } = usePDF('https://s5.aconvert.com/convert/p3r68-cdx67/biaus-ymnco.pdf')
 </script>
 
 <template>
